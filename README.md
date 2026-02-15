@@ -37,6 +37,7 @@ I actively contribute to the cybersecurity community through talks, workshops, a
 
 <!-- BLOG-POST-LIST:START -->
 - [Building Your First Cybersecurity AI Agent with LangGraph](https://medium.com/seercurity-spotlight/building-your-first-cybersecurity-ai-agent-with-langgraph-d27107ac872a)
+- [Laterally moving to AWS via Compromised On-Prem IoT Greengrass Devices](https://medium.com/seercurity-spotlight/from-edge-to-cloud-pivoting-to-aws-via-compromised-iot-greengrass-devices-657ba4927ca8)
 - [Offensive MCP and MCP for Offensive](https://medium.com/seercurity-spotlight/offensive-mcp-and-mcp-for-offensive-1ac7ffe82fb6)
 - [Operationalizing the BadSuccessor: Abusing dMSA for Domain Privilege Escalation](https://medium.com/seercurity-spotlight/operationalizing-the-badsuccessor-abusing-dmsa-for-domain-privilege-escalation-429cefc36187)
 - [AI, LLMs and Prompt Injection](https://medium.com/seercurity-spotlight/ai-llms-and-prompt-injection-9a5a4c68166e)
