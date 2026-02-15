@@ -15,8 +15,8 @@ Hey 👋! I'm Arun (a.k.a dazzyddos).
 
 - 🔴 **Red Team Operations** — Adversary simulation, initial access, lateral movement, and full-scope red team engagements
 - 🛡️ **Penetration Testing** — Internal/external network, cloud (AWS/Azure), web, and mobile application assessments
-- 🦠 **Malware Development & Defense Evasion** — Custom tooling, unhooking, AMSI bypass, AV/EDR evasion techniques
-- 🤖 **AI Security Research** — LLM prompt injection, MCP exploitation, and building offensive AI agents
+- 🦠 **Malware Development & Defense Evasion** — Custom tooling, C2 Development, AV/EDR evasion techniques
+- 🤖 **AI Security Research** — AI/ML Exploitation & Security, and building offensive AI agents
 
 ## 🎤 Speaking & Community
 
