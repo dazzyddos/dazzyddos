@@ -5,7 +5,7 @@ Hey 👋! I'm Arun (a.k.a dazzyddos).
 <i><b>Disclaimer</b>: The views and opinions expressed in this GitHub profile are my own and do not represent those of my employer. The repositories and tools available here are for educational purposes only, and I am not responsible for any illegal use of the provided information or code.</i>
 
 <a href="https://dazzyddos.github.io"><img align="left" src="https://img.shields.io/badge/My%20Blog-purple?logo=jekyll" alt="Visit my blog" /></a>
-<a href="https://medium.com/@dazzyddos"><img align="left" src="https://img.shields.io/badge/Medium-black?logo=medium" alt="Read my Medium posts" /></a>
+<a href="https://medium.com/@coderarunnair"><img align="left" src="https://img.shields.io/badge/Medium-black?logo=medium" alt="Read my Medium posts" /></a>
 <a href="https://twitter.com/intent/user?screen_name=dazzyddos"><img align="left" src="https://img.shields.io/twitter/follow/dazzyddos" alt="Follow me on Twitter" /></a>
 <a href="https://github.com/dazzyddos"><img align="left" src="https://img.shields.io/github/followers/dazzyddos?label=Follow%20dazzyddos" alt="Follow me on GitHub"/></a>
 <a href="https://www.linkedin.com/in/watashiarun/"><img align="left" src="https://img.shields.io/badge/Arun%20Nair-grey?label=LinkedIn&labelColor=blue" alt="Connect on LinkedIn" /></a>
