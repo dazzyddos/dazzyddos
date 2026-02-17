@@ -22,7 +22,7 @@ Hey 👋! I'm Arun (a.k.a dazzyddos).
 
 I actively contribute to the cybersecurity community through talks, workshops, and CTF challenges:
 
-- **Heapcon** | **BSides Transylvania** | **HackSpaceCon** | **RingZer0** | **RedTeamSummit** | **c0c0n** | **MCTTP**
+- **Defcon RTV** | **Heapcon** | **BSides Transylvania** | **HackSpaceCon** | **RingZer0** | **RedTeamSummit** | **c0c0n** | **MCTTP**
 
 ## 🏆 Hall of Fame
 
